@@ -1,4 +1,4 @@
-# FEU-DETR Release
+# SSR-DETR Release
 
 This is a minimal PyTorch validation package for the released FEU-DETR checkpoint.
 
